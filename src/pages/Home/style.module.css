@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 4rem;
+}
+
+.section {
+    background-color: white;
+    margin: 30px;
+    padding: 15px 30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 3.5rem 0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.img {
+    width: 260px;
+    margin: 0 auto;
+}

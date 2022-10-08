@@ -1,0 +1,33 @@
+.sidebar {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  width: 18%;
+  min-height: 100vh;
+  background-color: white;
+  text-align: center;
+  padding: 1.2rem 0;
+}
+
+.img {
+  padding-top: 50px;
+}
+
+.img > img {
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+}
+
+.sidebar_item {
+  padding: 0.8rem;
+  text-decoration: none;
+  color: #a0a1a1;
+}
+
+.sidebar_item:hover {
+  padding-right: 0.5rem;
+  border-right: 8px solid #0583d2;
+  color: #0268b1;
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 4rem;
+}
+
+.section {
+    background-color: white;
+    margin: 30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    padding: 3.5rem 2rem;
+}
+
+.section h3 {
+    margin-top: 2rem;
+}
+
+.icons a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1rem;
+}

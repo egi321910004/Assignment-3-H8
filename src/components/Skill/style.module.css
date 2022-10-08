@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    align-items: center;
+    margin: 0.2rem;
+}
+
+.container svg {
+    margin-right: 0.6rem;
+}
